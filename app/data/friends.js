@@ -75,4 +75,28 @@ var friends = [{
     ]
 }]
 
+
 module.exports = friends;
+
+var faker = require('faker');
+
+var fakeFriends = []
+
+for (var i = 0; i < 50; i++) {
+
+    fakeFriend = {
+        randomName: faker.name.findName(),
+        randomAvatar: faker.image.avatar(),
+        randomAnswers: []
+    };
+    for (var a = 0; a < 10; a++) {
+        fakeFriend.randomAnswers.push(Math.floor(Math.random() * 5) + 1);
+    }
+    fakeFriends.push(fakeFriend)
+}
+
+
+// console.log('------------------------------------');
+// console.log(fakeFriends);
+
+// console.log('------------------------------------');

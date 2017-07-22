@@ -3,10 +3,9 @@ let path = require('path');
 let bodyParser = require("body-parser");
 
 let app = express();
+let PORT = process.env.PORT || 3000;
 
 app.use('/assets', express.static('assets'));
-
-let PORT = process.env.PORT || 3000;
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));

@@ -15,17 +15,17 @@ var friends = [{
     ]
 }, {
     "name": "Greggory",
-    "photo": "",
+    "photo": "http://webresizer.com/images2/bird1_before.jpg",
     "scores": [
         "5",
         "5",
-        "4",
-        "4",
-        "2",
-        "2",
-        "2",
         "5",
-        "3",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
         "5"
     ]
 }, {
@@ -60,7 +60,7 @@ var friends = [{
     ]
 }, {
     "name": "Kip",
-    "photo": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj-9s6265nVAhVI5SYKHX4TB50QjRwIBw&url=https%3A%2F%2Fwww.planwallpaper.com%2Fimages&psig=AFQjCNEMvIUj8tT6XDsXmbJVRbG3WoPuwA&ust=1500707994175769",
+    "photo": "http://i.dailymail.co.uk/i/pix/2017/01/16/20/332EE38400000578-4125738-image-a-132_1484600112489.jpg",
     "scores": [
         "1",
         "5",
@@ -74,4 +74,5 @@ var friends = [{
         "1"
     ]
 }]
+
 module.exports = friends;

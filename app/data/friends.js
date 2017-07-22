@@ -1,6 +1,6 @@
 var friends = [{
-    "name": "Ahmed",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name": "Abraham",
+    "photo": "http://diversifiedantiques.com/images/listings/446_large.jpg",
     "scores": [
         "3",
         "1",
@@ -14,8 +14,8 @@ var friends = [{
         "5"
     ]
 }, {
-    "name": "Greggory",
-    "photo": "http://webresizer.com/images2/bird1_before.jpg",
+    "name": "John",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/John_F._Kennedy%2C_White_House_photo_portrait%2C_looking_up.jpg",
     "scores": [
         "5",
         "5",
@@ -29,8 +29,8 @@ var friends = [{
         "5"
     ]
 }, {
-    "name": "Harry",
-    "photo": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiOreWZ65nVAhVLJCYKHVI4B5AQjRwIBw&url=https%3A%2F%2Fpixabay.com%2Fen%2Fphotos%2Fwinter%2F&psig=AFQjCNEMvIUj8tT6XDsXmbJVRbG3WoPuwA&ust=1500707994175769",
+    "name": "Robert",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Robert_F_Kennedy_crop.jpg",
     "scores": [
         "2",
         "1",
@@ -59,8 +59,8 @@ var friends = [{
         "1"
     ]
 }, {
-    "name": "Kip",
-    "photo": "http://i.dailymail.co.uk/i/pix/2017/01/16/20/332EE38400000578-4125738-image-a-132_1484600112489.jpg",
+    "name": "Dick",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.jpg/220px-Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.jpg",
     "scores": [
         "1",
         "5",
@@ -69,7 +69,7 @@ var friends = [{
         "2",
         "4",
         "2",
-        "5",
+        "2",
         "5",
         "1"
     ]
